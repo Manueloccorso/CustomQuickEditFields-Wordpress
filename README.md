@@ -1,4 +1,4 @@
-Custom Quick Edit Fields
+# Custom Quick Edit Fields
 =====================================================
 
  I Need to thank  <strong>bamadesigner</strong> because I used her plugin and tutorial to start mine. 
@@ -22,3 +22,7 @@ check you're using the right path and setting
 If you find any issues please let me know. Thanks!
 
 http://systems.closeupengineering.it/author/manuel-occorso/
+
+
+# Disclaimer
+This plugin is 2 years old.
